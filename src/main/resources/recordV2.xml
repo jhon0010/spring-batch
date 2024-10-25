@@ -1,0 +1,10 @@
+<records>
+    <record>
+        <id>1</id>
+        <name>John</name>
+        <email>
+            <name>john@</name>
+            <domain>example.com</domain>
+        </email>
+    </record>
+</records>

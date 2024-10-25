@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<records>
+    <record removed="false" uuid="AA4755-DWW47">
+        <id>1</id>
+        <name>John</name>
+        <email>
+            <name>john@</name>
+            <domain>example.com</domain>
+        </email>
+    </record>
+</records>
